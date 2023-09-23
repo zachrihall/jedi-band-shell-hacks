@@ -52,7 +52,7 @@ body {
 }
 
 .main {
-    background: url("../assets/star-wars-bg.gif");
+    background: url("star-wars-bg.gif");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
